@@ -31,7 +31,7 @@ p{
 
 .top-banner{
     background-repeat: no-repeat;
-    background-image: url("developer-portfolio/top-banner.png");
+    background-image: url("top-banner.png");
 }
 
 section{
@@ -47,7 +47,7 @@ section{
     font-size: 15px;
 }
 .dream-area{
-   background-image: url("developer-portfolio/dream-bg.png");
+   background-image: url("dream-bg.png");
    background-repeat: no-repeat;
    background-position: right;
     
@@ -59,7 +59,7 @@ section{
     background-color: white;
 }
 .experience-area{
-    background-image: url("developer-portfolio/exp-bg.png");
+    background-image: url("exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
 }
